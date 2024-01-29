@@ -1,0 +1,16 @@
+
+*.config
+.vs/FillMyFridgeAPI/DesignTimeBuild/.dtbcache
+.vs/FillMyFridgeAPI/v15/.suo
+.vs/FillMyFridgeAPI/v15/Server/sqlite3/db.lock
+.vs/FillMyFridgeAPI/v15/Server/sqlite3/storage.ide
+.vs/FillMyFridgeAPI/v15/Server/sqlite3/storage.ide-shm
+.vs/FillMyFridgeAPI/v15/Server/sqlite3/storage.ide-wal
+.vs/FillMyFridgeAPI/v16/.suo
+.vs/FillMyFridgeAPI/v16/Server/sqlite3/db.lock
+.vs/FillMyFridgeAPI/v16/Server/sqlite3/storage.ide
+
+[Bb]in/
+[Oo]bj/
+.vs/
+.git/
